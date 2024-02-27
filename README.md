@@ -25,4 +25,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 • Two other group members contributed
-• This was for a class project
